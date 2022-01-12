@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/intro-react/static/css/main.5f9008eb.css",
+    "main.js": "/intro-react/static/js/main.a179e5b8.js",
+    "static/media/Synthwave-GIF.gif": "/intro-react/static/media/Synthwave-GIF.6b2450aa76c6001e76e1.gif",
+    "static/media/Spinner.svg": "/intro-react/static/media/Spinner.3e3345437fd5e19fd0c9444e2db340ab.svg",
+    "index.html": "/intro-react/index.html",
+    "main.5f9008eb.css.map": "/intro-react/static/css/main.5f9008eb.css.map",
+    "main.a179e5b8.js.map": "/intro-react/static/js/main.a179e5b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f9008eb.css",
+    "static/js/main.a179e5b8.js"
+  ]
+}
